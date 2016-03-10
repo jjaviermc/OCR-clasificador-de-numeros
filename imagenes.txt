@@ -1,1 +1,0 @@
-Las imagenes segmentadas estan en una carpeta llamada DatosPruebra.rar y las imagenes de prueba estan en la carpeta tesSet.rar  para obtener las imagenes descoprima el archivo en la carpeta donde se guardara el ptrograma.
